@@ -7,3 +7,8 @@ Public home for the RESToRe Lab's journal club — kept separate from the lab's 
 - **[`recordings/`](recordings/)** — session recordings; see [recordings/README.md](recordings/README.md) for the upload/linking convention
 
 Source for the site itself (and the process for updating/redeploying it) lives in the private `restorelab` repo at `LabGuide/journal-club/literature-club-website/`.
+
+**Asking an AI assistant to make changes?** Point it at
+`LabGuide/journal-club/literature-club-website/AGENTS.md` in the `restorelab`
+repo first — it has full instructions for this two-repo setup, the content
+model, the redeploy process, and known gotchas.
