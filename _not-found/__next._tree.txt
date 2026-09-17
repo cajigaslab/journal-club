@@ -1,2 +1,2 @@
-:HL["/journal-club/_next/static/chunks/0c09jq6jh3iwp.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"pmep90kXFCvYu2GS0H-mj"}
+:HL["/journal-club/_next/static/chunks/176o.it-s5f8z.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"xZjRVP5fGaOzjCOLWCIRx"}
