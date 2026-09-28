@@ -3,6 +3,7 @@
 **Presenter:** Kamren Khan
 **URL:** https://www.nature.com/articles/s41562-026-02503-7
 **Journal:** Nature Human Behaviour
+**Recording:** [Watch the recording](https://github.com/cajigaslab/journal-club/raw/main/recordings/2026-07-08-kamren-khan.mp4)
 
 ## Summary
 Preston, Smith and Voytek review aperiodic neural activity in the brain and examine how measuring aperiodic activity can shed light on brain function and disease.

@@ -13,6 +13,8 @@ https://github.com/cajigaslab/journal-club/raw/main/recordings/<filename>
 Set that as the `recordingUrl` for the matching session in `restorelab`'s
 `LabGuide/journal-club/literature-club-website/lib/content.ts`, then rebuild and redeploy the site (see that repo's README) — the "Recording not posted yet" text will switch to a "Watch the recording" link automatically.
 
+**Also add a `**Recording:**` link to the matching file in [`sessions/`](../sessions/)** (both here and in restorelab's canonical copy), right after that file's `**Journal:**` line — that's what lets someone browsing a session in the archive jump straight to its recording, instead of coming back to this folder and matching the date by hand. `recordingUrl` on the homepage card only covers the session while it's featured as last/next week; the session file is what stays linked once it rotates into the archive.
+
 **Size limit:** GitHub blocks any single file over 100 MB pushed via plain git. Most screen recordings of a journal club session will exceed that. If a recording is too large:
 - Compress it first (e.g. `ffmpeg -i in.mp4 -vcodec libx264 -crf 28 out.mp4` gets most screen recordings well under 100 MB), or
 - Use [Git LFS](https://git-lfs.com) for this repo (free tier: 1 GB storage / 1 GB bandwidth per month — fine for a few recordings, not for a large archive), or

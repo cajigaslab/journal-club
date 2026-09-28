@@ -3,6 +3,7 @@
 **Presenter:** Krishna Sargur
 **URL:** https://doi.org/10.1016/j.neuron.2025.07.030
 **Journal:** Neuron (2025)
+**Slides:** [View the slides](https://github.com/cajigaslab/journal-club/raw/main/slides/2026-09-23-krishna-sargur.pptx)
 
 ## Summary
 

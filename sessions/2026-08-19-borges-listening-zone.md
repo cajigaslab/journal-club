@@ -3,6 +3,7 @@
 **Presenter:** Pedro Borges
 **URL:** https://doi.org/10.1523/ENEURO.0492-21.2022
 **Journal:** eNeuro (2022)
+**Recording:** [Watch the recording](https://github.com/cajigaslab/journal-club/raw/main/recordings/2026-08-19-pedro-borges.mp4)
 
 ## Summary
 

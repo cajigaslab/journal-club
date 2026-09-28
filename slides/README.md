@@ -13,6 +13,8 @@ https://github.com/cajigaslab/journal-club/raw/main/slides/<filename>
 Set that as the `slidesUrl` for the matching session in `restorelab`'s
 `LabGuide/journal-club/literature-club-website/lib/content.ts`, then rebuild and redeploy the site (see that repo's README) — a "View the slides" link will appear on that session automatically.
 
+**Also add a `**Slides:**` link to the matching file in [`sessions/`](../sessions/)** (both here and in restorelab's canonical copy), right after that file's `**Journal:**` line — that's what lets someone browsing a session in the archive jump straight to its slides, instead of coming back to this folder and matching the date by hand. `slidesUrl` on the homepage card only covers the session while it's featured as last/next week; the session file is what stays linked once it rotates into the archive.
+
 **Size:** slide decks are usually small enough (a few MB to tens of MB) to push directly with no compression needed. If a deck is unusually large (large embedded video/images), the same fallbacks as `recordings/` apply — see that folder's README.
 
 Note: the lab's [journal-club README](https://github.com/cajigaslab/restorelab/blob/main/LabGuide/journal-club/README.md) also references a Box folder for slides. Uploading here in addition (or instead) is fine — Box is the original convention, this folder just makes slides linkable directly from the site.

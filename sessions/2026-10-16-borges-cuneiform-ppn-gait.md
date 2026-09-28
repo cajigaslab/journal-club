@@ -3,6 +3,8 @@
 **Presenter:** Pedro Borges
 **URL:** https://doi.org/10.1093/brain/awag259
 **Journal:** Brain (2026)
+**Slides:** [View the slides](https://github.com/cajigaslab/journal-club/raw/main/slides/2026-10-16-pedro-borges.pptx)
+**Recording:** [Watch the recording](https://github.com/cajigaslab/journal-club/raw/main/recordings/2026-10-16-pedro-borges.mp4)
 
 ## Summary
 
